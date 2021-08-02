@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wsurielXO
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html,CSS, & Javascript
+- 🌱 I’m currently learning Html, CSS, & Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
